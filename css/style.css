@@ -50,6 +50,7 @@ img{
     height: 40vh;
     display: flex; 
     width: 60%;
+    max-width:1250;
     min-width: 200px;
     min-height: 200px;
 }
